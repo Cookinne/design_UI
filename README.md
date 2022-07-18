@@ -31,7 +31,7 @@
 ``` bash
 $ yarn
 ```
-或者
+或
 ``` bash
 $ npm install
 ```
